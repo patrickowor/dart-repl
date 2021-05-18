@@ -1,0 +1,6 @@
+#! /usr/bin/bash
+
+folder=$(pwd)
+cp $PREFIX/bin/dart-repl-file/dart-cli.py $folder
+python dart-cli.py
+rm dart-cli.py
