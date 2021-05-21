@@ -1,5 +1,5 @@
 # dart-repl
-this is the dart repl version 0.1.0
+this is the dart repl version 0.3.0
 built by Patrick owor using rust
 
 to run it you need to have rust installed
