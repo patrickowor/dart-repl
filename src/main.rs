@@ -39,7 +39,7 @@ fn main() -> std::io::Result<()>{
     
     
     
-    println!("DART REPL 0.0.2 built on \nRust 1.38.0 frame and dart by owor Patrick \n .exit to cancel \n .clear to clear errors in memory and \n .help for help\n");
+    println!("DART REPL 0.1.0 built on \nRust 1.38.0 frame and dart by owor Patrick \n .exit to cancel \n .clear to clear errors in memory and \n .help for help\n");
     
     // basic variables needed
     let mut old = String::new();
